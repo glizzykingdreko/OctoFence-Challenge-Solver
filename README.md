@@ -2,7 +2,7 @@
 
 This repository contains a simple yet effective snippet of code demonstrating the weak security measures deployed by OctoFence on Rome's official Colosseum ticketing website. The project structure and the code herein dissect the lackluster antibot protection measures, which were unraveled and bypassed in a mere span of four minutes.
 
-Take a look into my [Medium Article](https://medium.com/@glizzykingdreko) about it.
+Take a look into my [Medium Article](https://medium.com/@glizzykingdreko/the-irony-of-octofence-romes-colosseum-tickets-and-a-digital-mafia-fe2deba67c52) about it.
 
 ## Table of Contents
 - [OctoFence Challenge Solver](#octofence-challenge-solver)
